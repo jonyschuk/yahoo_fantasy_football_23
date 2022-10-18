@@ -2,3 +2,7 @@
 
 
 Download Fantasy Data From Yahoo Using the API.
+
+Instructions
+
+get_all_fantasy_data.py
