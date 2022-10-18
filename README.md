@@ -7,4 +7,6 @@ Instructions
 
 get_all_fantasy_data.py
 
-Returns Fantasy Player Stats
+Returns Fantasy Player Stats.
+
+Returns Team Fantasy Stats
