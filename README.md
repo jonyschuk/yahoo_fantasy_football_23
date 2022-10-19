@@ -26,7 +26,7 @@ Once a year you'll need to figure out the game Id
 
     python get_game.py
 
-Pop that mug into your config file.
+It's in the json that's printed. Pop that mug into your config file.
 - Change line 1
 - Also change line 3. the First Three numbers of 414.l.XXXXX
 Also in your config file upate the league ID only
