@@ -1,0 +1,9 @@
+{
+    "access_token": "access_token",
+    "consumer_key": "key",
+    "consumer_secret": "secret",
+    "guid": "guid",
+    "refresh_token": "refresh",
+    "token_time": 1666193932.6585789,
+    "token_type": "bearer"
+}
