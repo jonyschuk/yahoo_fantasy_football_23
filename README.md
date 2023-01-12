@@ -1,4 +1,4 @@
-# Yahoo Fantasy Footballl API Integration
+# Yahoo Fantasy Football API Integration
 
 ### Overview
 Download Fantasy Data From Yahoo Using the API
@@ -7,7 +7,7 @@ You can use this to build a dashboard [Here's a Tableau Example!](https://public
 
 ### Instructions (Setup)
 
-You'll need to configure oauth2yahoo.json first! This excercise is best left as an excercise for the reader.
+You'll need to configure oauth2yahoo.json first! This exercise is best left as an exercise for the reader.
 Just kidding. I'm very funny! lol lmfao :laughing: go here https://developer.yahoo.com/apps/create/
 
 - Name: "Yahoo Fantasy Football Integration"
